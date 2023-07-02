@@ -10,6 +10,6 @@ public class NumberReverter {
 
         System.out.print(numbers);
         System.out.print(tens);
-        System.out.print(hundreds);
+        System.out.print(hundreds + "\n");
     }
 }
